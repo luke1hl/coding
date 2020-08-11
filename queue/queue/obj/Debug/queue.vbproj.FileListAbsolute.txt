@@ -1,0 +1,11 @@
+Z:\visual basic coding\queue\queue\bin\Debug\queue.exe.config
+Z:\visual basic coding\queue\queue\bin\Debug\queue.exe
+Z:\visual basic coding\queue\queue\bin\Debug\queue.pdb
+Z:\visual basic coding\queue\queue\bin\Debug\queue.xml
+Z:\visual basic coding\queue\queue\obj\Debug\queue.vbprojAssemblyReference.cache
+Z:\visual basic coding\queue\queue\obj\Debug\queue.Form1.resources
+Z:\visual basic coding\queue\queue\obj\Debug\queue.Resources.resources
+Z:\visual basic coding\queue\queue\obj\Debug\queue.vbproj.GenerateResource.cache
+Z:\visual basic coding\queue\queue\obj\Debug\queue.exe
+Z:\visual basic coding\queue\queue\obj\Debug\queue.xml
+Z:\visual basic coding\queue\queue\obj\Debug\queue.pdb

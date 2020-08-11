@@ -1,0 +1,11 @@
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\obj\Debug\Infection simulation.vbprojAssemblyReference.cache
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\obj\Debug\Infection_simulation.Form1.resources
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\obj\Debug\Infection_simulation.Resources.resources
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\obj\Debug\Infection simulation.vbproj.GenerateResource.cache
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\bin\Debug\Infection simulation.exe.config
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\bin\Debug\Infection simulation.exe
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\bin\Debug\Infection simulation.pdb
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\bin\Debug\Infection simulation.xml
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\obj\Debug\Infection simulation.exe
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\obj\Debug\Infection simulation.xml
+Z:\visual basic coding\Infection\Infection simulation\Infection simulation\obj\Debug\Infection simulation.pdb
