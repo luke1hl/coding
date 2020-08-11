@@ -1,0 +1,11 @@
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\obj\Debug\FakeTetris.vbprojAssemblyReference.cache
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\obj\Debug\FakeTetris.Form1.resources
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\obj\Debug\FakeTetris.Resources.resources
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\obj\Debug\FakeTetris.vbproj.GenerateResource.cache
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\bin\Debug\TetrisbutnotTetris.exe.config
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\bin\Debug\TetrisbutnotTetris.exe
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\bin\Debug\TetrisbutnotTetris.pdb
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\bin\Debug\TetrisbutnotTetris.xml
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\obj\Debug\TetrisbutnotTetris.exe
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\obj\Debug\TetrisbutnotTetris.xml
+C:\Users\luke7\source\repos\FakeTetris\FakeTetris\obj\Debug\TetrisbutnotTetris.pdb

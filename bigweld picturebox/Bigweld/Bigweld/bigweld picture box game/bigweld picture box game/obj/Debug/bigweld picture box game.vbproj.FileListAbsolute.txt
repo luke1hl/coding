@@ -1,0 +1,11 @@
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\bin\Debug\bigweld picture box game.pdb
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\bin\Debug\bigweld picture box game.xml
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\obj\Debug\bigweld picture box game.vbprojAssemblyReference.cache
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\obj\Debug\bigweld_picture_box_game.Resources.resources
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\obj\Debug\bigweld_picture_box_game.UserControl1.resources
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\obj\Debug\bigweld picture box game.vbproj.GenerateResource.cache
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\obj\Debug\bigweld picture box game.xml
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\obj\Debug\bigweld picture box game.pdb
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\bin\Debug\bigweld picture box game.exe
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\obj\Debug\bigweld picture box game.exe
+Z:\visual basic coding\bigweld picturebox\Bigweld\Bigweld\bigweld picture box game\bigweld picture box game\obj\Debug\bigweld_picture_box_game.Form1.resources
